@@ -22,10 +22,6 @@ module.exports = {
         11: ['11px', '26px'],
         'error': ['11px', '16px']
       },
-      backgroundImage: {
-        'desktop': "url('./images/bg-intro-desktop.png')",
-        'mobile': "url('./images/bg-intro-mobile.png')",
-      }
     },
   },
   plugins: [],
